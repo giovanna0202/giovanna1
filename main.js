@@ -1,0 +1,1 @@
+alert("cuidado este site pode não ser confiavel")
